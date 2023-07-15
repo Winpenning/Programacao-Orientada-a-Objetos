@@ -1,0 +1,15 @@
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\bin\Debug\net7.0\Lambda, delegates e LINQ.exe
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\bin\Debug\net7.0\Lambda, delegates e LINQ.deps.json
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\bin\Debug\net7.0\Lambda, delegates e LINQ.runtimeconfig.json
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\bin\Debug\net7.0\Lambda, delegates e LINQ.dll
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\bin\Debug\net7.0\Lambda, delegates e LINQ.pdb
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\obj\Debug\net7.0\Lambda, delegates e LINQ.csproj.AssemblyReference.cache
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\obj\Debug\net7.0\Lambda, delegates e LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\obj\Debug\net7.0\Lambda, delegates e LINQ.AssemblyInfoInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\obj\Debug\net7.0\Lambda, delegates e LINQ.AssemblyInfo.cs
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\obj\Debug\net7.0\Lambda, delegates e LINQ.csproj.CoreCompileInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\obj\Debug\net7.0\Lambda, delegates e LINQ.dll
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\obj\Debug\net7.0\refint\Lambda, delegates e LINQ.dll
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\obj\Debug\net7.0\Lambda, delegates e LINQ.pdb
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\obj\Debug\net7.0\Lambda, delegates e LINQ.genruntimeconfig.cache
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Lambda, delegates e LINQ\Lambda, delegates e LINQ\obj\Debug\net7.0\ref\Lambda, delegates e LINQ.dll

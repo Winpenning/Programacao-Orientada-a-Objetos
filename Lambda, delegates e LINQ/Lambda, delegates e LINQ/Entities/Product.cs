@@ -4,6 +4,11 @@
     {
         private string name;
         private double price;
+
+        public string getName()
+        {
+            return name;
+        }
         public Product(string name, double price)
         {
             this.name = name;
@@ -11,7 +16,7 @@
         }
         public int CompareTo(Product other)
         {
-            return name.ToUpper().CompareTo(other.name.ToUpper());
+            return 1; //name.ToUpper().CompareTo(other.name.ToUpper());
         }
         public override string ToString()
         {

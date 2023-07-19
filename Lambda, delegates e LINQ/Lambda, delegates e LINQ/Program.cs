@@ -11,13 +11,15 @@ namespace Lambda
             products.Add(new Product("Fogão Industrial", 6000));
             products.Add(new Product("Xbox Series X", 3500));
             products.Add(new Product("Alicate", 99.99));
-            products.Sort();
+
             
+            products.Sort((p1, p2) => p1.getName().ToUpper().CompareTo(p2.getName().ToUpper()));
             
             foreach (Product product in products)
             {
                 Console.WriteLine(product);
             }
+            
         } 
     }
 }

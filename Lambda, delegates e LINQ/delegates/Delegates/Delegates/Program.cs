@@ -5,11 +5,14 @@ using System;
 namespace Delegates
 {
     public delegate void BinaryNumericOperation(double n1, double n2);
+    public delegate double DelegateOperation(/*double firstSalary, double lastSalary*/);
     public class Program
     {
         public static void Main(string[] args)
         {
-            Predicates();
+            ExamplePredicates(new Employee(1,"Paulo",500,700));
+          //  MulticastDelegates();
+         //   Predicates();
         }
         public static void MulticastDelegates()
         {
@@ -48,6 +51,14 @@ namespace Delegates
         public static bool Predicates2(Product p)
         {
             return p.price >= 100;
+        }
+
+        public static void ExamplePredicates(Employee e)
+        {
+            DelegateOperation op = e.MaxSalary;
+            
+            Console.WriteLine(op.Invoke());
+            op.Invoke();
         }
     }
 }

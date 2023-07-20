@@ -10,7 +10,8 @@ namespace Delegates
     {
         public static void Main(string[] args)
         {
-            ExamplePredicates(new Employee(1,"Paulo",500,700));
+            Action();
+            //ExamplePredicates(new Employee(1,"Paulo",500,700));
           //  MulticastDelegates();
          //   Predicates();
         }
@@ -53,12 +54,52 @@ namespace Delegates
             return p.price >= 100;
         }
 
-        public static void ExamplePredicates(Employee e)
+        public static void ExampleDelegates(Employee e)
         {
             DelegateOperation op = e.MaxSalary;
             
             Console.WriteLine(op.Invoke());
             op.Invoke();
         }
+
+        public static void Action()
+        {
+            /* Fazer um programa que, a partir de uma lista de produtos, 
+             * aumente o preço dos produtos em 10 %. */
+            List<Product> list = new List<Product>();
+            list.Add(new Product("TV", 900));
+            list.Add(new Product("Bicicleta", 500));
+            list.Add(new Product("Frigideira", 90));
+            list.Add(new Product("Xbox Series X", 6000));
+
+            // podemos fazer assim
+            Action<Product> aumento = p => p.price += p.price * 0.1;
+            list.ForEach(aumento);
+
+            foreach(Product p in list) 
+            {
+                Console.WriteLine(p);
+            }
+
+            // ou assim
+            list.ForEach(p => p.price += p.price * 0.1);
+            foreach (Product p in list)
+            {
+                Console.WriteLine(p);
+            }
+
+            //ou usando um delegate para uma função externa
+            Action<Product> aumento2 = Action2;
+            list.ForEach(aumento2);
+            foreach (Product p in list)
+            {
+                Console.WriteLine(p);
+            }
+        }
+        public static void Action2(Product p)
+        {
+            p.price += p.price * 0.1;
+        }
+        
     }
 }

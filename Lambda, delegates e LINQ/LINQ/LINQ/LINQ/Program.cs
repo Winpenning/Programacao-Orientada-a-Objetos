@@ -34,9 +34,15 @@ namespace LINQ
             };
 
             // Usando uma função externa
+            /* var Example1 =
+                 products.Where(Tier1); */
             var Example1 =
-                products.Where(Tier1);
-            Print("Produtos de Tier 1 com preços menores que 900:", Example1);
+                 from p in products
+                 where p.Category.Tier == 1 && p.Price < 900.00
+                 select p;
+            Print("Produtos de Tier 1 com preços menores que 900:", Example1); 
+
+
 
             // Nomes de produtos que são ferramentas
             var Example2 =

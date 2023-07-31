@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Problema1.Services
 {
-    public class PrintService
+    public class PrintService<T>
     {
-        private int[] Array = new int[10];
+        private T[] Array = new T[10];
         private int _Count = 0;
-        public void AddValue(int value)
+        public void AddValue(T value)
         {
             if (_Count == 10)
             {
@@ -22,7 +22,7 @@ namespace Problema1.Services
                 _Count++;
             }
         }
-        public int First()
+        public T First()
         {
             if (_Count == 0)
             {

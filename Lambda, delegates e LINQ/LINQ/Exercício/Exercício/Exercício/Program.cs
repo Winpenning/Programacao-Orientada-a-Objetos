@@ -19,7 +19,7 @@ namespace Exercício
 
             using (StreamReader sr = File.OpenText(path))
             {
-                while (!sr.EndOfStream) 
+                while (!sr.EndOfStream)
                 {
                     string[] field = sr.ReadLine().Split(',');
                     string name = field[0];
@@ -30,7 +30,7 @@ namespace Exercício
             }
 
 
-            var emails = 
+            var emails =
                 list.Where(p => p.getSalary() > value && p.getEmail != null)
                 .OrderBy(p => p.Email)
                 .Select(p => p.getEmail());
@@ -44,7 +44,7 @@ namespace Exercício
             double Msum = list.Where(p => p.getName()[0] == 'M')
                 .Select(p => p.getSalary()).Sum();
 
-            Console.WriteLine("Soma dos salários das pessoas que começam com a letra 'M' "+Msum);
+            Console.WriteLine("Soma dos salários das pessoas que começam com a letra 'M' " + Msum);
 
 
         }

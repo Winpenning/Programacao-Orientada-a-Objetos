@@ -1,0 +1,15 @@
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\bin\Debug\net7.0\Problema1.exe
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\bin\Debug\net7.0\Problema1.deps.json
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\bin\Debug\net7.0\Problema1.runtimeconfig.json
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\bin\Debug\net7.0\Problema1.dll
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\bin\Debug\net7.0\Problema1.pdb
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\obj\Debug\net7.0\Problema1.csproj.AssemblyReference.cache
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\obj\Debug\net7.0\Problema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\obj\Debug\net7.0\Problema1.AssemblyInfoInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\obj\Debug\net7.0\Problema1.AssemblyInfo.cs
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\obj\Debug\net7.0\Problema1.csproj.CoreCompileInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\obj\Debug\net7.0\Problema1.dll
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\obj\Debug\net7.0\refint\Problema1.dll
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\obj\Debug\net7.0\Problema1.pdb
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\obj\Debug\net7.0\Problema1.genruntimeconfig.cache
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\Generics\Problema1\Problema1\obj\Debug\net7.0\ref\Problema1.dll

@@ -10,6 +10,8 @@ namespace ResticoesParaGenerics.Entities
     {
         private string Name { get; }
         private double Value { get; }
+
+         private static Product Instance { get; set; }
         public Product(string name, double value)
         {
             this.Name = name;

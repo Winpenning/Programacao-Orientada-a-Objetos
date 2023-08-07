@@ -4,6 +4,8 @@ using ResticoesParaGenerics.Services;
 Console.Write("Enter N: ");
 int _ = int.Parse(Console.ReadLine());
 
+
+
 List<Product> products = new List<Product>();
 CalculationService calculationService = new CalculationService();
 for  (int i = 0; i < _; i++)

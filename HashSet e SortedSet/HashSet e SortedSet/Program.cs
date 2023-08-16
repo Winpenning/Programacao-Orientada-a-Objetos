@@ -19,7 +19,6 @@ e.ExceptWith(b);
 Print(e);
 
 
-
 static void Print<T>(IEnumerable<T> collection)
 {
     foreach(var obj in collection) 

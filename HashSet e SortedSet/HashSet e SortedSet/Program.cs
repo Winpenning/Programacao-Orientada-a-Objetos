@@ -1,22 +1,30 @@
 ﻿using System.Collections.Generic;
-using HashSet_e_SortedSet.Entities;
+
+SortedSet<int> a = new SortedSet<int>() { 0,1,2,3,5,7,9 };
+SortedSet<int> b = new SortedSet<int>() { 2,4,6,8 };
+
+// UNIÃO DE CONJUNTOS
+SortedSet<int> c = new SortedSet<int>(a);
+c.UnionWith(b);
+Print(c);
+
+// INTERSECÇÃO DE CONJUNTOS
+SortedSet<int> d = new SortedSet<int>(a);
+d.Intersect(b);
+Print(d);
+
+//DIFERENÇA
+SortedSet<int> e = a;
+e.ExceptWith(b);
+Print(e);
 
 
-/*HashSet<People> peoples = new HashSet<People>();
-peoples.Add(new People(09909999990, "Paulo Henrique", "paulo@gmail.com"));
-peoples.Add(new People(099099999950, "Maria Antonieta", "maria@gmail.com"));
-peoples.Add(new People(09909999950, "Sun Tzu", "sun@gmail.com"));*/
 
-HashSet<string> setviahash = new HashSet<string>();
-
-setviahash.Add("Antônio");
-setviahash.Add("Clara");
-setviahash.Add("Lúcia");
-setviahash.Add("Rosevelt");
-
-Console.WriteLine(setviahash.Contains("Antônio"));
-
-foreach (string item in setviahash)
+static void Print<T>(IEnumerable<T> collection)
 {
-    Console.WriteLine(item);
+    foreach(var obj in collection) 
+    {
+        Console.Write(obj + " ");
+    }
+    Console.WriteLine();
 }

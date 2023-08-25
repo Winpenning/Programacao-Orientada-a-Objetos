@@ -27,3 +27,12 @@ static void Print<T>(IEnumerable<T> collection)
     }
     Console.WriteLine();
 }
+
+object t = new object();
+t.ToString();
+Console.WriteLine(t);
+
+PlatformID i = new PlatformID();
+Console.WriteLine(i.ToString());
+
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="sisteminha" Class="testeDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="dbo.[Table]" Member="Funcionario">
+    <Type Name="Funcionario">
+      <Column Name="IdFuncionario" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NomeFuncionario" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CargoFuncionario" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

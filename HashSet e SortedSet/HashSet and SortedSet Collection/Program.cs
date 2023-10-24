@@ -19,8 +19,8 @@ namespace HashSet_and_SortedSet_Collection
                 products2.Add(new Product($"Produto{i}", i));
             }
 
-            //products1.RemoveWhere(p => products1.Contains(products2.First()));
-            //products1.IntersectWith(products2);
+            products1.RemoveWhere(p => p.Name == "TV");
+            products1.IntersectWith(products2);
             foreach (Product p in products1)
             {
                 Console.WriteLine(p.Name);

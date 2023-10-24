@@ -1,0 +1,15 @@
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\bin\Debug\net7.0\HashSet and SortedSet Collection.exe
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\bin\Debug\net7.0\HashSet and SortedSet Collection.deps.json
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\bin\Debug\net7.0\HashSet and SortedSet Collection.runtimeconfig.json
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\bin\Debug\net7.0\HashSet and SortedSet Collection.dll
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\bin\Debug\net7.0\HashSet and SortedSet Collection.pdb
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\obj\Debug\net7.0\HashSet and SortedSet Collection.csproj.AssemblyReference.cache
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\obj\Debug\net7.0\HashSet and SortedSet Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\obj\Debug\net7.0\HashSet and SortedSet Collection.AssemblyInfoInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\obj\Debug\net7.0\HashSet and SortedSet Collection.AssemblyInfo.cs
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\obj\Debug\net7.0\HashSet and SortedSet Collection.csproj.CoreCompileInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\obj\Debug\net7.0\HashSet and SortedSet Collection.dll
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\obj\Debug\net7.0\refint\HashSet and SortedSet Collection.dll
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\obj\Debug\net7.0\HashSet and SortedSet Collection.pdb
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\obj\Debug\net7.0\HashSet and SortedSet Collection.genruntimeconfig.cache
+C:\Users\zsphS\source\repos\Winpenning\Programacao-Orientada-a-Objetos\HashSet e SortedSet\HashSet and SortedSet Collection\obj\Debug\net7.0\ref\HashSet and SortedSet Collection.dll
